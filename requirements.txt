@@ -1,0 +1,6 @@
+yfinance
+pandas
+matplotlib
+beautifulsoup4
+plotly
+html5lib
